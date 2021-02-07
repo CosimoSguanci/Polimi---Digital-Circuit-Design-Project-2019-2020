@@ -11,3 +11,5 @@
 
 # Specifications
 
+The original paper about Working Zone Encoding can be found [here](https://github.com/CosimoSguanci/Polimi-Digital-Circuit-Design-Project-2020/blob/main/doc/Musoll-Lang-Cortadella-paper.pdf)
+
