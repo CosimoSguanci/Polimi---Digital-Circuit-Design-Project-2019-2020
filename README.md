@@ -1,6 +1,6 @@
-# Polimi Digital Circuit Design (Reti Logiche) Project - Working-Zone Encoding
+# Polimi Digital Logic Design (Reti Logiche) Project - Working-Zone Encoding
 
-2019-2020 Digital Circuit Design Project - Polimi
+2019-2020 Digital Logic Design Project - Polimi
 
 # Authors
 
